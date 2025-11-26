@@ -92,7 +92,7 @@ function startChatboxTimer() {
 //     TYPEWRITER EFFECT
 // =========================
 const message = 
-`Happy birthday kawi, aku harap kamu sehat selalu dan yang kamu inginkan dapat tercapai. Aku ingin mengungkapkan rasa terimakasihku akan kehadiranmu kaw, karena kamu aku masih berada dilubang kelinci ini; kamu juga yang selalu membuat malam-malamku penuh warna kaw, cerita yang kamu bawakan selalu bisa menghiburku; kamu juga membuat aku tuh selalu menanti hari esok, karena aku tak sabar akan pemabahasan apalagi yang kamu akan bawa di stream. Intinya kehadiranmu sangat berarti buat aku kaw. Aku juga ingin minta maaf, karena aku jarang bisa nonton stream kamu ataupun baru datang saat stream kamu udah mau selesai. Semenjak pindah keluar kota, aku jadi lebih sibuk dengan rl😥. Namun, vod stream kamu selalu menjadi hiburanku dikala waktu senggang. Jadi terimakasih ya kawi buat segalanya dan Otanjoubi omedetou`;
+`Happy birthday kawi, aku harap kamu sehat selalu dan yang kamu inginkan dapat tercapai. Aku ingin mengungkapkan rasa terimakasihku akan kehadiranmu kaw, karena kamu aku masih berada di lubang kelinci ini; kamu juga yang selalu membuat malam-malamku penuh warna kaw, cerita yang kamu bawakan selalu bisa menghiburku; kamu juga membuat aku tuh selalu menanti hari esok, karena aku tak sabar akan pembahasan apalagi yang kamu akan bawa di stream. Intinya kehadiranmu sangat berarti buat aku kaw. Aku juga ingin minta maaf, karena aku jarang bisa nonton stream kamu ataupun baru datang saat stream kamu udah mau selesai. Semenjak pindah keluar kota, aku jadi lebih sibuk dengan rl😥. Namun, vod stream kamu selalu menjadi hiburanku dikala waktu senggang. Jadi terimakasih ya kawi buat segalanya dan Otanjoubi omedetou`;
 
 let i = 0;
 let speed = 45;
