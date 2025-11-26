@@ -69,7 +69,7 @@ function startConfettiTimer() {
 
         }, 250);
 
-    }, 25000); // 25 detik SETELAH tombol ditekan
+    }, 25000); 
 }
 
 // =========================
@@ -85,7 +85,7 @@ function startChatboxTimer() {
 
         // === MULAI TYPEWRITER ===
         typeWriter();
-    }, 31000); // 33 detik SETELAH tombol ditekan
+    }, 31000); 
 }
 
 // =========================
@@ -116,10 +116,10 @@ toggle.addEventListener('click', () => {
         if (firstClick) {
             firstClick = false;
 
-            // mulai animasi teks
+           
             teksContainer.classList.add("start-anim");
 
-            // jalankan timer hanya setelah tombol ditekan
+       
             startConfettiTimer();
             startChatboxTimer();
         }
@@ -137,7 +137,7 @@ sendBtn.addEventListener("click", () => {
    
     setTimeout(() => {
         chatbox.style.display = "none";
-    }); // durasi animasi sendFadeUp
+    }); 
     lastBox.classList.add('show');
        // START CONFETTI ON SEND
     // =========================
