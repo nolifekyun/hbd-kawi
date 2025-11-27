@@ -1,4 +1,4 @@
-alert("Klik tombol musik pada bagian kanan atas untuk memulai");
+alert("Klik tombol musik pada bagian kanan atas untuk memulai. Setelah tekan play, langsung pause saja jika takut terkena copyright");
 
 // ELEMENTS
 const audio = document.getElementById('bg-music');
